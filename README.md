@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vamenkudale
-- 👀 I’m interested in Chemistry
-- 🌱 I’m currently learning ML in Polymer science
-- 💞️ I’m looking to learn
-- 📫 How to reach me: email me at va.menkudale@gmail.com
+- Hi, I’m @vamenkudale
+- I’m interested in Chemistry
+- I’m currently learning ML in Polymer science
+- I’m looking to learn
+- How to reach me: email me at va.menkudale@gmail.com
